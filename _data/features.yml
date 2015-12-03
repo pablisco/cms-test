@@ -9,3 +9,4 @@ acme:
       - login: true
       - feature2: true
       - feature3: false
+      - feature4: true
