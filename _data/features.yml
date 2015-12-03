@@ -4,7 +4,7 @@ acme:
       - login: true
       - feature2: true
       - feature3: false
-      - androidfeature: true
+      - test: true
   iphone:
     features:
       - login: true
