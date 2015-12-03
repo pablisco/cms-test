@@ -1,0 +1,11 @@
+acme:
+  android:
+    features:
+      - login: true
+      - feature2: true
+      - feature3: false
+  iphone:
+    features:
+      - login: true
+      - feature2: true
+      - feature3: false
